@@ -1,0 +1,46 @@
+.nav-container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.richedu-logo {
+    width: 100%;
+    height: 64px;
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+   width: 73%;
+}
+.menu-list{
+    width: 100%;
+    margin-top: 32px;
+    padding-top: 8px;
+    display: flex;
+    transition: 0.25s;
+} 
+.menu-list img{
+    margin-left: 16px;
+}     
+.menu-list a{
+    margin-left: 8px;
+    margin-top: 2px;
+    cursor: pointer;
+    transition: 0.25s;
+}
+.menu-list a:hover{
+    color: #301C77;
+}
+.menu-list:hover{
+    border-left: 5px solid #301C77;
+    
+}
+
+
+
+
+
+

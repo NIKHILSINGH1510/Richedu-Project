@@ -1,0 +1,38 @@
+@media only screen and (max-width: 1662px) {
+    .menu-list img{
+        margin-left: 4px;
+    }
+    .radial-progress p{
+        font-size: 14px!important;
+    }
+    .menu-list a{
+        font-size: 12px;
+    }
+    .coin{
+        margin-left: 30px!important;
+    }
+    .leaderboard-header h3{
+        font-size: 20px!important;
+    }
+    .coin-text-number{
+        margin-left: 10px!important;
+    }
+    .p-1{
+        font-size: 16px!important;
+    }
+   }
+   @media only screen and (max-width: 1458px){
+       .coin img{
+           display: none;
+       }
+   }
+   @media only screen and (max-width: 11230px){
+       .leaderboard-header{
+           justify-content: center!important;
+       }
+      
+
+   }
+
+
+

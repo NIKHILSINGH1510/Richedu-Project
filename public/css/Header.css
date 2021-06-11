@@ -1,0 +1,73 @@
+.header-container{
+    height: 60px;
+    width: 98%;
+    display: flex;
+    align-items: center;
+    margin-top: 32px;
+    float: left;
+}
+.header-container h1{
+    color: #3B0082;
+    font-size: 32px;
+    font-weight: bold;
+    margin-left: 64px;
+}
+.header-1{
+    width: 70%;
+}
+.search-bar{
+    height: 100%;
+    width: 450px;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 32px;
+}
+.dropdown-icon{
+    height: 23px;
+    width: 23px;
+    margin-top: 18px;
+}
+.dropdown-icon img{
+    cursor: pointer;
+}
+.profile{
+    height: 60px;
+    width: 60px;
+    display: flex;
+}
+.notif-icon{
+    width: 47px;
+    height: 47px;
+    margin-top: 4px;
+    margin-right: 20px;
+    
+}
+.arrow{
+    height: 37px;
+    width: 37px;
+    margin-top: 8px;
+    margin-right: 20px;
+}
+.search{
+    height: 55%;
+    width: 190px;
+    margin-top: 10px;
+    margin-right: 20px;
+    background-color: white;
+    border-radius: 8px;
+    display: flex;
+}
+.search input{
+    width: 70%;
+    margin-left: 4px;
+    background-color: white;
+    border: none;
+    outline: none;
+    
+}
+.search img{
+    width: 13px;
+    height: 13px;
+    margin-left: 8px;
+    margin-top: 10px;
+}
